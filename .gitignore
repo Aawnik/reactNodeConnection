@@ -9,6 +9,8 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
+D:\Aawni_iPrep\reactNodeConnection\reactUI\node_modules
+D:\Aawni_iPrep\reactNodeConnection\nodeApp\node_modules
 # Runtime data
 pids
 *.pid
